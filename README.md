@@ -19,7 +19,7 @@ export REGION=us-central1
 
 ```
 
-## service agent에 역활 추가후 json 다운로드
+## service account에 역활 추가후 json 다운로드
 
 ### 역활
 ```
