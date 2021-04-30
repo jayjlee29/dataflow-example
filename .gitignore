@@ -1,0 +1,15 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# 
+vible-lotus-b7535729c288.json
+
+.vscode
+.gradle
+.settings
+bin
+gradle
+target
